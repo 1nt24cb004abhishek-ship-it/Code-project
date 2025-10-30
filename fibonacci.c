@@ -12,12 +12,13 @@ printf("%d ", a);    // Print current term
 c = a + b;
     
  a = b;
-               // 
+               
 b = c;
  } 
-               //
+               
 printf("\n");  // Print newline after series 
 return 0;
  } 
-      //
+      
+
  
